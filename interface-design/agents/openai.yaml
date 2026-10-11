@@ -1,0 +1,6 @@
+interface:
+  display_name: "Interface Design"
+  short_description: "Crea, audita y corrige interfaces según tu intención"
+  default_prompt: "Usa $interface-design para interpretar lo que necesito y crear, evaluar o mejorar esta interfaz con criterios de diseño contextual."
+policy:
+  allow_implicit_invocation: true
