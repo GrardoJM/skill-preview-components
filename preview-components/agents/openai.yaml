@@ -1,0 +1,6 @@
+interface:
+  display_name: "Preview Components"
+  short_description: "Tres propuestas con Impeccable antes de implementar"
+  default_prompt: "Usa $preview-components para mostrarme tres propuestas con Impeccable del cambio que describo, abrirlas en el navegador y esperar mi elección antes de implementar."
+policy:
+  allow_implicit_invocation: true
